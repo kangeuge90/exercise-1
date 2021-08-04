@@ -1,13 +1,14 @@
 body {
     display: flex;
-    background-color: rgb(162, 195, 206);
+    background-color: rgb(211, 237, 245);
     width: 100%vw;
     max-width: 1200px;
     align-items: center;
+    justify-content: center;
 }
 
 
-/* Need to center Sign In Area upon background */
+/* Need to center Sign In Area upon background, give background rounded borders */
 
 div {
     display: flex;
